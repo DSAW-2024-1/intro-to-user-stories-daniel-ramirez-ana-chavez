@@ -4,5 +4,7 @@
 ### Universidad de La Sabana
 #### 2024 - I
 
+Daniel Ramirez, Ana Chavez
 
 **Link de Trello con las historias de usuario:**
+https://trello.com/invite/b/wdL9bTS9/ATTI7cdc2267078f7aa368f71b7c257f6af8AF1C13FF/twitter-desarrollo-web
